@@ -1,0 +1,43 @@
+.header_nav{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.header_nav li{
+    margin-right: 30px;
+}
+.item_content{
+    width: 1200px;
+    margin: 20px auto 20px;
+    padding-top: 20px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.item_body{
+    display: flex;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+.delete{
+    display: inline;
+}
+.sold_out{
+    color: red;
+}
+.like_button{
+    cursor: pointer;
+}
+.top_word{
+    font-style: italic;
+}
+img{
+    max-width: 600px;
+    max-height: 600px;
+}
+span{
+    font-weight: bold;
+}
