@@ -79,3 +79,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ♪今日も良い日になるように♪
 ♪今日も元気になるように♪
+いきるのがつらいとき
